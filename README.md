@@ -9,3 +9,9 @@ Users can enter a date to retrieve asteroids approaching Earth, including detail
 - Displays asteroid details: name, ID, hazard status, and estimated size (miles/feet).
 - Simple and interactive CLI experience.
 - (In progress) PostgreSQL integration to store favorite NEOs.
+
+- ## 🛠️ Tech Stack
+- **Java**
+- **NASA NEO API** (RESTful API)
+- **PostgreSQL** (database extension planned)
+
